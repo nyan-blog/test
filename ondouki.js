@@ -383,6 +383,15 @@ let weapon_list = [
         },
 // 防護
         {
+            name:"猛進するキバ",
+            lank:"S",
+            type:"defence",
+            attackValue:48,
+            subStatus:"衝撃力",
+            subStatusValue:"7.2%",
+            spec:"装備者のシールド生成量+30～60％。任意のメンバーが「看破」または「極限回避」を発動したとき、チーム全体の与ダメージ+18～36％、与えるブレイク値+12～24％。継続時間20秒。重ね掛け不可"
+        },
+        {
             name:"秩序の守り手・特化型",
             lank:"A",
             type:"defence",
